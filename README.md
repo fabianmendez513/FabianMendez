@@ -1,7 +1,7 @@
 # FabianMendez
 ---
 <p>
-  <img src="./ico.gif" align="right" width="15%"/>
+  <img src="gounter.gif" align="right" width="15%"/>
   <samp>
     <br>Soy un desarrollador Web y creador de contenidos digitales.
     <br>
